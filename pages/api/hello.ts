@@ -9,7 +9,5 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>,
 ) {
-  let variables = 10;
-
   res.status(200).json({ name: 'John Doe' });
 }
