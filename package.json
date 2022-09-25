@@ -10,7 +10,6 @@
     "eslint": "eslint --ext .tsx,.ts -c .eslintrc.json"
   },
   "dependencies": {
-    "eslint-config-airbnb-typescript": "^17.0.0",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
